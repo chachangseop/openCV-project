@@ -1,0 +1,122 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// ColorImageAlpha1.rc에서 사용되고 있습니다.
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDR_MAINFRAME                   128
+#define IDR_ColorImageAlpha1TYPE        130
+#define IDD_DIALOG1                     310
+#define IDD_CONSTANT                    310
+#define IDD_CONSTANT1                   311
+#define IDD_CONSTANT2                   312
+#define IDD_CONSTANT3                   313
+#define IDD_CONSTANT4                   314
+#define IDC_EDIT1                       1000
+#define IDC_EDIT_CONSTANT               1001
+#define IDC_EDIT_CONSTANT1              1002
+#define IDC_EDIT_CONSTANT2              1003
+#define IDC_EDIT_CONSTANT3              1004
+#define IDC_EDIT_CONSTANT4              1005
+#define ID_32771                        32771
+#define IDM_EQUAL_IMAGE                 32772
+#define ID_32773                        32773
+#define IDM_GRAYSCALE_IMAGE             32774
+#define ID_32775                        32775
+#define IDM_ADDBL_IMAGE                 32776
+#define IDM_ADDBR_IMAGE                 32777
+#define ID_32778                        32778
+#define IDM_CHANGE_SATUR                32779
+#define ID_32780                        32780
+#define IDM_PICKORANGE_IMAGE            32781
+#define ID_32782                        32782
+#define IDM_REVERS_IMAGE                32783
+#define ID_32784                        32784
+#define IDM_RRREVERS_IMAGE              32785
+#define IDM_AND_IMAGE                   32786
+#define ID_32787                        32787
+#define IDM_GAMMA_IMAGE                 32788
+#define ID_32789                        32789
+#define ID_32790                        32790
+#define ID_32791                        32791
+#define ID_32792                        32792
+#define ID_32793                        32793
+#define ID_32794                        32794
+#define ID_32795                        32795
+#define IDM_ZOOMO_IMAGE                 32796
+#define IDM_ZOOMI_IMAGE                 32797
+#define IDM_ROTATE_IMAGE                32798
+#define IDM_MIRRORLR_IMAGE              32799
+#define IDM_MIRRORHL_IMAGE              32800
+#define IDM_TRANS_IMAGE                 32801
+#define ID_32802                        32802
+#define IDM_AMBOSS_IMAGE                32803
+#define ID_32804                        32804
+#define ID_32805                        32805
+#define ID_32806                        32806
+#define ID_32807                        32807
+#define ID_32808                        32808
+#define ID_32809                        32809
+#define ID_32810                        32810
+#define ID_32811                        32811
+#define ID_32812                        32812
+#define ID_32813                        32813
+#define ID_32814                        32814
+#define ID_2                            32815
+#define ID_3                            32816
+#define ID_4                            32817
+#define ID_32818                        32818
+#define ID_32819                        32819
+#define ID_32820                        32820
+#define ID_32821                        32821
+#define ID_32822                        32822
+#define ID_32823                        32823
+#define ID_32824                        32824
+#define ID_32825                        32825
+#define ID_32826                        32826
+#define ID_5                            32827
+#define ID_32828                        32828
+#define ID_32829                        32829
+#define ID_32830                        32830
+#define ID_6                            32831
+#define ID_7                            32832
+#define ID_32833                        32833
+#define ID_32834                        32834
+#define ID_32835                        32835
+#define IDM_HISTOST_IMAGE               32836
+#define IDM_ANDIN_IMAGE                 32837
+#define IDM_HISTOEQ_IMAGE               32838
+#define IDM_BLUR_IMAGE                  32839
+#define IDM_SHARPN_IMAGE                32840
+#define IDM_SHARPH_IMAGE                32841
+#define IDM_SHARPL_IMAGE                32842
+#define IDM_USHA_IMAGE                  32843
+#define IDM_CHA_IMAGE                   32844
+#define IDM_ROBERTSA_IMAGE              32845
+#define IDM_ROBERTSB_IMAGE              32846
+#define IDM_ROBERTSAB_IMAGE             32847
+#define IDM_SOBELA_IMAGE                32848
+#define IDM_SOBELB_IMAGE                32849
+#define ID_32850                        32850
+#define IDM_SOBELAB_IMAGE               32851
+#define IDM_PREWITTA_IMAGE              32852
+#define IDM_PREWITTB_IMAGE              32853
+#define IDM_PREWITTAB_IMAGE             32854
+#define IDM_LAPLAMA_IMAGE               32855
+#define IDM_LAPLAMB_IMAGE               32856
+#define IDM_LAPLAMAB_IMAGE              32857
+#define IDM_LOG_IMAGE                   32858
+#define IDM_DOG_IMAGE                   32859
+#define ID_32860                        32860
+#define IDM_EMBOSS_HSI                  32861
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        312
+#define _APS_NEXT_COMMAND_VALUE         32862
+#define _APS_NEXT_CONTROL_VALUE         1006
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif
